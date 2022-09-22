@@ -10,3 +10,5 @@
 
 #### [🔗 Entrega 5 - Motores de Plantilla](https://github.com/osobuxs/Desafios-Backend-CoderHouse/tree/main/Desafio-5-Motores-de-plantilla#readme)
 
+#### [🔗 Entrega 6 - Websockets](https://github.com/osobuxs/Desafios-Backend-CoderHouse/tree/main/Desafio-6-Websockets#readme)
+
